@@ -8,7 +8,7 @@ No description provided.
 
 ## Technologies Used
 
-- **Stack:** Java, Python
+- **Stack:** Java, Mermaid, Python
 - **GitHub Topics:** None
 
 ## Architecture Overview
